@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/eantan2s-projects/v0-579-assignment-2](https://vercel.com/eantan2s-projects/v0-579-assignment-2)**
+**[https://v0-579-assignment-2.vercel.app/](https://v0-579-assignment-2.vercel.app/)**
 
 ## Build your app
 
